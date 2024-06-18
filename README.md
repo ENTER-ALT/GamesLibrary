@@ -1,6 +1,7 @@
 Used tech stack:
 
-Backend: provided
+Backend: provided,
+
 Frontend:
 - HTML,
 - SCSS and CSS,
